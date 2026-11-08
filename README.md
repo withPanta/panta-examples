@@ -4,7 +4,7 @@ Explore source-linked Swiss job and employer data through [Panta](https://withpa
 
 ## Run an example
 
-Requires Python 3.10+ or curl. No API key is needed for these small public-market examples. They do not access personal workspaces.
+Requires Python 3.10+ and curl. No API key is needed for these small public-market examples. They do not access personal workspaces.
 
 ```sh
 python3 examples/search_jobs.py --query python --location-class physical_ch --limit 5
